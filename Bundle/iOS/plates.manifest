@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1040077150
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4fe86833cc12d340a3df4be4dcde68fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f001845a09611eb58fd23e33e0e3a2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b56970e265fa4dd42b62945531c69ee2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pizza/00 Plates/plates.prefab
+Dependencies: []
